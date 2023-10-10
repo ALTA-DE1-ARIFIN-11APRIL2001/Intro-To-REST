@@ -1,2 +1,281 @@
-Instruksi!
-- Export collection Postman dalam bentuk JSON.
+{
+    "status": "ok",
+    "totalResults": 1595,
+    "articles": [
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Devindra Hardawar",
+            "title": "Meta Quest 3 review: A bit of mixed reality makes for better VR",
+            "description": "The Meta Quest 3 proves that the Meta Quest 2 was just an impossibly good deal. When that VR headset arrived for just $300 three years ago, it was the perfect gateway to VR for most people. You didn't need to hook it up to anything, you just flipped it on and…",
+            "url": "https://www.engadget.com/meta-quest-3-review-mixed-reality-vr-150009788.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/upm2rniwjAhlDCHyYE8tsQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-10/5f8a72b0-665b-11ee-bf5f-4b93668c120f.cf.jpg",
+            "publishedAt": "2023-10-09T15:00:09Z",
+            "content": "The Meta Quest 3 proves that the Meta Ques 2 was just an impossibly good deal. When that VR headset arrived for just $300 three years ago, it was the perfect gateway to VR for most people. You didn't… [+8230 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Medea Giordano, Louryn Strampe",
+            "title": "27 Best Early October Prime Day Deals (2023) on Headphones, Vacuums, and More",
+            "description": "Amazon’s Prime Big Deal Days shopping holiday kicks off tomorrow and runs through October 11, but early deals are already here.",
+            "url": "https://www.wired.com/story/best-october-prime-day-deals-2023-4/",
+            "urlToImage": "https://media.wired.com/photos/64e3b8540124a91cee27dc66/191:100/w_1280,c_limit/JBL-Bar-1300X-Gear.jpg",
+            "publishedAt": "2023-10-09T21:16:00Z",
+            "content": "Amazon will launch a shopping event called Prime Big Deal Days on October 10 and 11, aka Prime Day Part II. As usual, many of these Prime Day deals will require a Prime membership, though you can tak… [+16691 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "David Pierce",
+            "title": "Meta Quest 3 review: almost the one we’ve been waiting for",
+            "description": "Meta’s new VR headset is faster, higher-res, and capable of playing better games than ever. But Meta is also trying to make mixed reality happen like the Apple Vision Pro — and it’s not quite there yet.",
+            "url": "https://www.theverge.com/23906313/meta-quest-3-review-vr-mixed-reality-headset",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/YxuA4Gi_IBtmIuvpOEo1-JlMJNI=/0x0:4240x2832/1200x628/filters:focal(2423x920:2424x921)/cdn.vox-cdn.com/uploads/chorus_asset/file/24989047/Quest3hero.jpg",
+            "publishedAt": "2023-10-09T15:00:00Z",
+            "content": "Metas new headset is better than its predecessors in almost every way. But until theres more to do in mixed reality, this wont be the headset that gets everyone wearing headsets. \r\nByDavid Pierce, ed… [+19608 chars]"
+        },
+       {
+            "source": {
+                "id": null,
+                "name": "Android Authority"
+            },
+            "author": "Ryan McNeal",
+            "title": "Watch the four most expensive phones get smashed to bits to see which survives",
+            "description": "A new drop test video tests the durability of the most expensive phones currently on the market. Check out what survived and what didn't.",
+            "url": "https://www.androidauthority.com/smartphone-screen-repair-facts-3373659/",
+            "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2023/03/iPhone-14-Pro-placed-on-top-of-a-Galaxy-S23-Ultra.jpg",
+            "publishedAt": "2023-10-09T16:00:07Z",
+            "content": "<ul><li>Four of the most expensive phones were put through a drop test.</li><li>The damage caused by the six-foot drop was substantial on all four devices.</li><li>The video is meant to highlight how… [+2103 chars]"
+        }
+    ]
+}
+
+{
+    "status": "ok",
+    "totalResults": 11848,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "CleanTechnica"
+            },
+            "author": "David Waterworth",
+            "title": "Ford Mustang Mach-E Arrives in Australia",
+            "description": "After all the announcements during 2023, it was great to see that the Ford Mustang Mach-E had finally arrived in Brisbane, Queensland. A few demonstrator models have been sprinkled around the different Ford dealerships and we had to be quick to get a test dri…",
+            "url": "https://cleantechnica.com/2023/10/08/ford-mustang-mach-e-arrives-in-australia/",
+            "urlToImage": "http://cleantechnica.com/files/2023/10/387344858_1397580730967511_6166075288525796362_n-scaled-e1696815288799.jpg",
+            "publishedAt": "2023-10-09T01:47:00Z",
+            "content": "Sign up for daily news updates from CleanTechnica on email. Or follow us on Google News!\r\nAfter all the announcements during 2023, it was great to see that the Ford Mustang Mach-E had finally arrived… [+7698 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investing.com"
+            },
+            "author": "Reuters",
+            "title": "Beijing Hyundai cuts asking price for Chongqing auto plant by 30%",
+            "description": "Beijing Hyundai cuts asking price for Chongqing auto plant by 30%",
+            "url": "https://www.investing.com/news/stock-market-news/beijing-hyundai-cuts-asking-price-for-chongqing-auto-plant-by-30-3193189",
+            "urlToImage": "https://i-invdn-com.investing.com/news/LYNXMPED2K0HS_L.jpg",
+            "publishedAt": "2023-10-09T01:45:57Z",
+            "content": "SHANGHAI (Reuters) - Beijing Hyundai Motor (OTC:HYMTF) has cut the minimum asking price for its auto plant in the southwestern Chinese city of Chongqing by almost 30% to 2.58 billion yuan ($353.38 mi… [+1481 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNA"
+            },
+            "author": null,
+            "title": "Beijing Hyundai cuts asking price for Chongqing auto plant by 30%",
+            "description": "SHANGHAI : Beijing Hyundai Motor has cut the minimum asking price for its auto plant in the southwestern Chinese city of Chongqing by almost 30 per cent to 2.58 billion yuan ($353.38 million) after putting it up for sale in August. The price cut for the plant…",
+            "url": "https://www.channelnewsasia.com/business/beijing-hyundai-cuts-asking-price-chongqing-auto-plant-30-3831346",
+            "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--3qOuJM3s--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-10-09t014354z_2_lynxmpej9800z_rtroptp_3_china-autos-hyundai.jpg?itok=wBzcrVer",
+            "publishedAt": "2023-10-09T01:33:46Z",
+            "content": "SHANGHAI : Beijing Hyundai Motor has cut the minimum asking price for its auto plant in the southwestern Chinese city of Chongqing by almost 30 per cent to 2.58 billion yuan ($353.38 million) after p… [+1469 chars]"
+        },       {
+            "source": {
+                "id": null,
+                "name": "BMWBLOG"
+            },
+            "author": "Horatiu Boeriu",
+            "title": "Should BMW Switch to the NACS Port Standard?",
+            "description": "The electric vehicle (EV) market is evolving rapidly, with various automakers embracing new charging standards to accommodate the growing demand for electric mobility. One significant development in this regard is the adoption of the Tesla...",
+            "url": "https://www.bmwblog.com/2023/10/07/should-bmw-switch-to-the-nacs-port-standard/",
+            "urlToImage": "https://cdn.bmwblog.com/wp-content/uploads/2023/10/tesla-nacs-00.jpg",
+            "publishedAt": "2023-10-08T02:22:24Z",
+            "content": "The electric vehicle (EV) market is evolving rapidly, with various automakers embracing new charging standards to accommodate the growing demand for electric mobility. One significant development in … [+3806 chars]"
+        }
+    ]
+}
+
+{
+    "status": "ok",
+    "totalResults": 70,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Lee Ying Shan",
+            "title": "Oil prices jump 4% in wake of Hamas attack on Israel - CNBC",
+            "description": "Oil prices popped on Monday as the Israel-Hamas conflict extends into a third day following a surprise attack on Israel by Palestinian militants Hamas.",
+            "url": "https://www.cnbc.com/2023/10/09/brent-wti-prices-jump-after-hamas-attack-on-israel.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107313341-1696787435735-gettyimages-1713203061-AFP_33XU3WR.jpeg?v=1696811956&w=1920&h=1080",
+            "publishedAt": "2023-10-09T00:39:00Z",
+            "content": "Lights illuminate the processing plant at the Persian Gulf Star Co. (PGSPC) gas condensate refinery in Bandar Abbas, Iran, on Wednesday, Jan. 9. 2019.\r\nOil prices jumped 4% as the Israel-Hamas confli… [+4185 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Mental Floss"
+            },
+            "author": "Kiara Taylor",
+            "title": "The Best Early October Prime Day Deals on Fire Sticks, Kindles, and Other Amazon Devices - Mentalfloss",
+            "description": "With these October Prime Day deals, you can get select Amazon devices starting for as low as $13, plus save big on Kindles, Ring video doorbells, and more.",
+            "url": "https://www.mentalfloss.com/posts/amazon-devices-october-prime-day-deals",
+            "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,w_2099,h_1180,x_0,y_0/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/mentalfloss/01hc3bgjamygkj9r9z9x.jpg",
+            "publishedAt": "2023-10-09T00:27:00Z",
+            "content": "You might have missed it, but now you havent. Starting this Tuesday, October 10 at 3 a.m. EST, Prime shoppers can take advantage of massive savings on Amazon devices when October Prime Day officially… [+756 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "INSIDER"
+            },
+            "author": "Hannah Getahun",
+            "title": "Florida man used aerial banner to find his wife's stolen Rolls Royce - Insider",
+            "description": "Bob Benyo used a plane banner to locate his $200,000 Rolls Royce, which was stolen out of his garage.",
+            "url": "https://www.insider.com/stolen-twilight-purple-rolls-royce-wraith-florida-aerial-plane-banner-2023-10",
+            "urlToImage": "https://i.insider.com/652211316e038039826cc0a9?width=1200&format=jpeg",
+            "publishedAt": "2023-10-09T00:27:00Z",
+            "content": "The Twilight Purple 2016 Rolls Royce Wraith Florida resident Bob Benyo gave his wife a rare one he estimates about six of them are in the country.\r\n\"It stands out. I mean, it's kind of hard to miss,\"… [+5558 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Farah Elbahrawy",
+            "title": "S&P 500 Faces Threat of Profit Warnings as Concerns About US Consumer Mount - Bloomberg",
+            "description": "S&amp;P 500 to slump on earnings results, majority of respondents in Bloomberg survey say.",
+            "url": "https://www.bloomberg.com/news/articles/2023-10-09/s-p-500-faces-threat-of-profit-warnings-as-concerns-about-us-consumer-mount",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i6lL3ifAQlTE/v1/1200x772.jpg",
+            "publishedAt": "2023-10-09T00:00:18Z",
+            "content": "US stocks reeling from the impact of high bond yields are facing a new threat from an expected slew of profit warnings, triggered by fading US consumer spending trends.\r\nConcerned that Americans migh… [+445 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "San Francisco Chronicle"
+            },
+            "author": "Cynthia Dizikes",
+            "title": "Winning $1.3 million Powerball ticket sold in San Francisco - San Francisco Chronicle",
+            "description": "A Powerball ticket worth more than $1.3 million was sold in San Francisco, according to the California Lottery.",
+            "url": "https://www.sfchronicle.com/bayarea/article/sf-powerball-winner-18413756.php",
+            "urlToImage": "https://s.hdnux.com/photos/01/34/61/01/24318053/6/rawImage.jpg",
+            "publishedAt": "2023-10-08T16:51:31Z",
+            "content": "A Powerball ticket that matched the first five numbers of Saturdays drawing was sold in San Francisco. \r\nMario Tama/Getty Images\r\nA Powerball ticket worth more than $1.3 million was sold in San Franc… [+577 chars]"
+        }
+    ]
+}
+
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Rebecca Bellan",
+            "title": "Electric Hydrogen is the green hydrogen industry's first unicorn | TechCrunch",
+            "description": "Investors have historically been skeptical of green hydrogen. High production costs, expensive infrastructure builds, competition with batteries and",
+            "url": "https://techcrunch.com/2023/10/03/electric-hydrogen-is-the-green-hydrogen-industrys-first-unicorn/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/10/Small-cell-Testing-in-EH2-Natick-Accelerated-Lifetime-Testing-Facility-2.jpg?resize=1200,802",
+            "publishedAt": "2023-10-03T21:37:19Z",
+            "content": "Investors have historically been skeptical of green hydrogen. High production costs, expensive infrastructure builds, competition with batteries and minimal government support have made the green hyd… [+3011 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kirsten Korosec",
+            "title": "In latest Cruise incident, video shows pedestrian struck by human-driven car, then run over by robotaxi | TechCrunch",
+            "description": "The San Francisco Police Department is investigating an October 2 incident that left a woman stuck underneath a Cruise robotaxi after being hit by a",
+            "url": "https://techcrunch.com/2023/10/03/in-latest-cruise-incident-video-shows-pedestrian-struck-by-human-driven-car-then-run-over-by-robotaxi/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/10/Cruise_700848.jpg?resize=1200,800",
+            "publishedAt": "2023-10-03T21:26:45Z",
+            "content": "The San Francisco Police Department is investigating an October 2 incident that left a woman stuck underneath a Cruise robotaxi after being hit by a human-driven vehicle.\r\nVideo captured by Cruise an… [+4397 chars]"
+        },
+       {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Manish Singh",
+            "title": "Sam Altman backs teens' AI startup automating browser-native workflows | TechCrunch",
+            "description": "Sam Altman, Peak XV, Eric Schmidt's trust, and Daniel Gross and Nat Friedman's AI grant are among backers of an AI startup, founded by two teenagers, Sam Altman, Peak XV, Eric Schmidt's trust, and Daniel Gross and Nat Friedman's AI grant are among backers of …",
+            "url": "https://techcrunch.com/2023/10/03/induced-ai/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/10/induced-ai.jpg?resize=1200,900",
+            "publishedAt": "2023-10-03T18:31:56Z",
+            "content": "Sam Altman, Peak XV, Eric Schmidt’s trust, and Daniel Gross and Nat Friedman’s AI grant are among backers of an AI startup, founded by two teenagers, that’s aiming to assist businesses in automating … [+3416 chars]"
+        }
+    ]
+}
+
+{
+    "status": "ok",
+    "totalResults": 87,
+    "articles": [
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "wsj",
+            "title": "Hamas Says Attacks on Israel Were Backed by Iran...",
+            "description": "The Gaza militant group launched its biggest sustained assault in years, prompting Israel's military to call up reservists and order retaliatory strikes.",
+            "url": "https://www.wsj.com/livecoverage/israel-hamas-gaza-rockets-attack-palestinians",
+            "urlToImage": "https://images.wsj.net/im-864577/social",
+            "publishedAt": "2023-10-08T13:00:03Z",
+            "content": "Hamas Says Attacks on Israel Were Backed by IranWSJ Membership The post Hamas Says Attacks on Israel Were Backed by Iran... captured from The Drudge Report above the fold, link 1 on 10/8/2023 1:00:03… [+408 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "wsj",
+            "title": "For Trump, New York Fraud Trial Personal...",
+            "description": "Friends say the case is the one that hits closest to his business and self-image",
+            "url": "https://www.wsj.com/us-news/law/donald-trump-trial-new-york-fraud-ae68650",
+            "urlToImage": "https://images.wsj.net/im-864266/social",
+            "publishedAt": "2023-10-08T12:00:07Z",
+            "content": "For Trump, the New York Fraud Trial Is PersonalDonald Trump faces four criminal indictments, 91 charges and, if convicted, sentences that could exceed his life expectancy. But there is one case that … [+725 chars]"
+        },
+       
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "wsj",
+            "title": "Defense in Landmark Antitrust Case Hinges on Lawyers Who Took on MICROSOFT...",
+            "description": "Legal team’s top job is explaining why this time is different in the biggest fight between the U.S. and a tech company in 25 years",
+            "url": "https://www.wsj.com/tech/googles-defense-in-landmark-antitrust-case-hinges-on-lawyers-who-took-on-microsoft-3c1d5059",
+            "urlToImage": "https://images.wsj.net/im-848536/social",
+            "publishedAt": "2023-09-09T14:00:06Z",
+            "content": "Google’s Defense in Landmark Antitrust Case Hinges on Lawyers Who Took on MicrosoftBy and Sept. 9, 2023 8:00 am ET\r\nThe Justice Department has sued Google seeking to break up its digital advertising … [+1197 chars]"
+        }
+    ]
+}
